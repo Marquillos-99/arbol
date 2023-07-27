@@ -1,0 +1,15 @@
+[
+	{
+		"id": "александр",
+		"title": "Дядя: александр",
+		"img": "https://scontent.fmex1-6.fna.fbcdn.net/v/t39.30808-6/288852462_172222335265220_1165300425530381393_n.jpg?_nc_cat=104&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Tl1S3qOMbRUAX_DGZ7R&_nc_ht=scontent.fmex1-6.fna&oh=00_AfBosnV7zaC8R1xIGfkSKx_g_4M5QoOMOT8aOm2yItf1Ug&oe=64C6C02F",
+		"author": "Douglas Crockford"
+	},
+	{
+		"id": "Рейна",
+		"title": "двоюродная сестра: Рейна (La чапаррита)",
+		"img": "https://scontent.fmex1-4.fna.fbcdn.net/v/t1.6435-9/56161499_273352790256220_918445637756780544_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeGfjxN_Q1g6wyVuPFmO8ZNPjDhWOClKu4WMOFY4KUq7hfpgrHWRFaMB5XjZXGCTTRLgFpcFGmSxL_m32800W-W0&_nc_ohc=VsZOPMjZFt4AX9U4f4X&_nc_ht=scontent.fmex1-4.fna&oh=00_AfCmp39f4J94YMgR4x2Txh7S5WO-TQjG0nO2ujeQTQjGJg&oe=64E91F61",
+		"opinion": "JavaScript: The Good Parts es un libro imprescindible que destaca las mejores prácticas y características esenciales de JavaScript. A través de una visión concisa y perspicaz, el autor nos guía por el mundo de este lenguaje, revelando su potencial y resaltando sus aspectos más poderosos y efectivos. Con un enfoque en la simplicidad y la elegancia, el libro ofrece una guía práctica para aprovechar al máximo las partes más sólidas y confiables de JavaScript, permitiéndonos escribir un código claro y eficiente. En resumen, esta obra es una valiosa herramienta para cualquier desarrollador que desee dominar el arte de programar con JavaScript.",
+		"author": "Douglas Crockford"
+	}
+]
